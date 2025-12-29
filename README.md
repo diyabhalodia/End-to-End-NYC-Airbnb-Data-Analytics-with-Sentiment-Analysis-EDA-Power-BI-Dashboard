@@ -75,7 +75,7 @@ NYC-Airbnb-Analysis/
   - Filters for dynamic exploration
 - Designed for **decision-ready insights**
 
-![Dashboard_Screenshot](assets/dashboard_ss.png)
+![Dashboard_Screenshot](assets/dashboard.png)
 
 ---
 
